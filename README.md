@@ -1,4 +1,4 @@
-# 3D-card-animation
+# 3D CARD ANIMATION
 A 3D card effect based on DevEd's tutorial.
 
-# WHAT I'VE LEARNT
+
